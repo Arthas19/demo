@@ -1,8 +1,7 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {"sky_bandwidth":27407272,"sky_locationbearing":0.0,"sky_countrycode":"rs","sky_dataactivity":0,"sky_internetstate":true,"sky_locationlatitude":45.26149677369419,"sky_locationlongitude":19.760223755563274,"sky_networktype":"UNKNOWN","sky_providername":"Telenor","sky_roaming":false,"sky_servicequality":"NO_SIGNAL","sky_signalstrength":-105,"sky_locationspeed":0.0,"sky_timestamp":1585121115},
+    {"sky_bandwidth":29568956,"sky_locationbearing":0.0,"sky_countrycode":"rs","sky_dataactivity":0,"sky_internetstate":true,"sky_locationlatitude":45.261495683636156,"sky_locationlongitude":19.760226060465698,"sky_networktype":"UNKNOWN","sky_providername":"Telenor","sky_roaming":false,"sky_servicequality":"NO_SIGNAL","sky_signalstrength":-105,"sky_locationspeed":0.0,"sky_timestamp":1585121114}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
